@@ -14,4 +14,4 @@ The app isn't malicious. If you have any concerns, open the source code and comp
 That's all, I hope I encouraged you to use this app.
 No pressure, of course.
 
-* Those fancy controls used in this app are from [amadyUI](https://github.com/amadyreksio/amadyUI)
+Those fancy controls used in this app are from [amadyUI](https://github.com/amadyreksio/amadyUI)
