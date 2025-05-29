@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\amadySafe\amadySafe\bin\Debug\amadySafe.exe.config
+C:\Users\user\source\repos\amadySafe\amadySafe\bin\Debug\amadySafe.exe
+C:\Users\user\source\repos\amadySafe\amadySafe\bin\Debug\amadySafe.pdb
+C:\Users\user\source\repos\amadySafe\amadySafe\obj\Debug\amadySafe.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\amadySafe\amadySafe\obj\Debug\amadySafe.Form1.resources
+C:\Users\user\source\repos\amadySafe\amadySafe\obj\Debug\amadySafe.Properties.Resources.resources
+C:\Users\user\source\repos\amadySafe\amadySafe\obj\Debug\amadySafe.csproj.GenerateResource.cache
+C:\Users\user\source\repos\amadySafe\amadySafe\obj\Debug\amadySafe.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\amadySafe\amadySafe\obj\Debug\amadySafe.exe
+C:\Users\user\source\repos\amadySafe\amadySafe\obj\Debug\amadySafe.pdb
+C:\Users\user\source\repos\amadySafe\amadySafe\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\amadySafe\amadySafe\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\source\repos\amadySafe\amadySafe\obj\Debug\amadySafe.csproj.Up2Date
+C:\Users\user\source\repos\amadySafe\amadySafe\bin\Debug\amadyUI.dll
+C:\Users\user\source\repos\amadySafe\amadySafe\bin\Debug\amadyUI.pdb
+C:\Users\user\source\repos\amadySafe\amadySafe\bin\Debug\amadyUI.xml
+C:\Users\user\source\repos\amadySafe\amadySafe\obj\Debug\amadySafe.SafeEditor.resources
