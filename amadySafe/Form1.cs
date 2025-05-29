@@ -50,7 +50,7 @@ namespace amadySafe
                 {
                     //OPEN
                     status = "Waiting for user input...";
-                    password = Microsoft.VisualBasic.Interaction.InputBox("Provide the password", "Open the safe");
+                    password = PasswordInputBox.Show("Provide the password", "Open the safe");
                     if (password == string.Empty){ Application.Exit(); return;
                 }
                     status = "Decrypting the config file...";
@@ -82,7 +82,7 @@ namespace amadySafe
             {
                     //CREATE
                     status = "Waiting for user input...";
-                    password = Microsoft.VisualBasic.Interaction.InputBox("Provide the password", "Create the safe");
+                    password = PasswordInputBox.Show("Provide the password", "Create the safe");
                     status = "Creating the safe...";
                     string cfg = "{}";
                 config=JsonConvert.DeserializeObject<Dictionary<string, string>>(cfg);
